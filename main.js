@@ -13,12 +13,12 @@ const game = () => {
   ) {
     console.log("You win the Game! Congrats.");
   } else {
-    console.log("Computer Wins! I am sorry you little guy.");
+    console.log("Computer Wins! I am sorry you luck is trash.");
   }
 
   const playAgain = prompt("Play Again?(yes/no) ");
 
-  if ((playAgain = "yes")) {
+  if (playAgain === "yes") {
     game();
   } else {
     console.log("Thanks for playing!");
