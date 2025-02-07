@@ -39,6 +39,8 @@ The game will display the outcome and prompt the user to play again. If the user
 
 ## Acknowledgements 🙏
 
-- This project was built as part of my **FreeCodeCamp** certification exercises. 🎓
+- This project was built while I was learning the fundamentals of JavaScript, with the help of valuable resources from YouTube. 🌐
 
-Thank you to FreeCodeCamp for providing valuable resources that helped me complete this project. 🌐
+
+
+
