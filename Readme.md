@@ -29,7 +29,7 @@ The game will display the outcome and prompt the user to play again. If the user
 
 - JavaScript (for game logic) 💡
 - `prompt()` for user input 🖊️
-- `console.log()` to display the result 📢
+- `alert()` to display the result 📢
 
 ## Instructions 📝
 
